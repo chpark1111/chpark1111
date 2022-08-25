@@ -1,7 +1,7 @@
 I'm Chanhyeok Park, highly self-motivated undergraduate student at KAIST, School of Computing.  
 
-Currently, I am in **KAIST Geometry & AI Lab** advised by [Prof. Minhyuk Sung](https://mhsung.github.io/).   
+Currently, I am in **KAIST Geometry & AI Lab** advised by [Prof. Minhyuk Sung](https://mhsung.github.io/) and [Schperics Inc.](https://www.schperics.com/) as a quant researcher.
 
-My research goal is to enable computers to **understand 3D shapes by simple geometric parts** and the **consequence of geometric operations applied to 3D shapes**. Currently, I'm focusing on **3D computer vision** and **geometry processing** with deep learning to develop an A.I. system that can be later embedded into 3D graphics/CAD software. 
+I want to combine my knowledge of deep learning to various fields like **computer vision, reinforcement learning, finance and law**.
 
-Check out my [CV](https://drive.google.com/file/d/1TdrNjzqnuE45osmaQHNBtjvtlfPgdXB6/view?usp=sharing) for more.
+Check out my [CV](https://drive.google.com/file/d/1uczAnvoOZYLgDe7OYqn3NGRvBlrFpc-U/view?usp=sharing) for more.
