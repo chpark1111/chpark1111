@@ -4,4 +4,4 @@ Currently, I am in **KAIST Geometric AI Lab** advised by [Prof. Minhyuk Sung](ht
 
 I want to combine my knowledge of deep learning to various fields like **computer vision, reinforcement learning, finance, medicine, law and music**.
 
-Check out my [CV](https://drive.google.com/file/d/1PknMZR-R-FH2_uogpzxs88LffWCg9nLZ/view?usp=share_link) for more.
+Check out my [CV](https://drive.google.com/file/d/1W0Qa63QtMZn-zWHsno-7KprwHUYi6YLv/view?usp=sharing) for more.
