@@ -1,7 +1,7 @@
-I'm Chanhyeok Park, highly self-motivated undergraduate student at KAIST, School of Computing.  
+I am Chanhyeok Park, an ambitious and self-driven undergraduate student at the KAIST School of Computing. 
 
-Previously, I was at **KAIST Geometric AI Lab** advised by [Prof. Minhyuk Sung](https://mhsung.github.io/).
+My academic interests lie at the intersection of Intellectual Property (IP) law, deep learning, 3D computer vision, and LLMs. 
 
-Now I look forward to combine my knowledge of deep learning to various fields like **computer vision, reinforcement learning, finance, medicine, law**.
+Currently, my primary focus is exploring how advanced deep learning methodologies, particularly Large Language Models (LLMs), can be effectively applied to Legal Technology, aiming to drive meaningful innovation in the legal domain .
 
-Check out my [CV](https://drive.google.com/file/d/1EGftpE0_1Ki8ls1cV8b_B2AWwDjmMTBy/view?usp=sharing) for more.
+Check out my [website](https://chpark1111.github.io) for more.
